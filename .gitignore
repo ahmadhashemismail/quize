@@ -1,0 +1,7 @@
+node_modules
+.next
+data/scores.json
+
+# Environment variables (keep secrets out of version control)
+.env.local
+.env
